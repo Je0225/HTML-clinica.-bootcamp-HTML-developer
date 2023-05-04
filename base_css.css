@@ -23,8 +23,9 @@ body {
     background-color: rgb(5, 108, 108);
     padding: 10px 20px 0px;s
 }
+
 .header {
-    background-color: rgb (5, 108, 108);
+    background-color: rgb(5, 108, 108);
     min-height: 1500spx;
 }
 .content {
